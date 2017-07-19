@@ -26,14 +26,11 @@ body {
   font-family: Helvetica, Arial, sans-serif;
   line-height - 1.6;
   max-width: 70%;
-  margin: auto;
+  margin: 30px auto;
   border-style: solid;
   border-color: #ffbf00;
   background-image: url("img/bg.jpg");
   border-radius: 5px;
-}
-body {
-  margin-top: 30px;
 }
 #page_content {
   background-color: white;
